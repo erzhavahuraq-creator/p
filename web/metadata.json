@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Birthday Landing Page",
+  "description": "Personal romantic birthday landing page with custom text, interactive cake candle blowing, photo gallery with filters, memories timeline, and synthesized instrumental music in a rose-pink palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
